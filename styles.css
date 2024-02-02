@@ -35,7 +35,7 @@ body{
 	/* Set the line height to 1.5 */
 	font-size: 1.1rem;
 	/* set the font size to 1.1rem	*/
-	font-color: var(--dk-gray);
+	color: var(--dk-gray);
 	/* set the font color to #222 (--dk-gray) */
 	margin: 0;
 	padding: 0;
